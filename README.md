@@ -11,7 +11,7 @@
 	
    [猿大佬官网](https://www.yuandalao.com)
    
-   [技术变线后台](https://www.yuandalao.com/merchant)
+   [技术变现后台](https://www.yuandalao.com/merchant)
 <p>
 	<a target="_blank" href="https://github.com/yuandalao2020/yuandalao/blob/main/LICENSE">
 		<img src="https://img.shields.io/apm/l/vim-mode.svg?color=yellow">
