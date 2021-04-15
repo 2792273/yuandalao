@@ -11,7 +11,7 @@
 	
    [猿大佬官网](https://www.yuandalao.com)
    
-   [技术变现后台](https://www.yuandalao.com/merchant)
+   [技术变线后台](https://www.yuandalao.com/merchant)
 <p>
 	<a target="_blank" href="https://github.com/yuandalao2020/yuandalao/blob/main/LICENSE">
 		<img src="https://img.shields.io/apm/l/vim-mode.svg?color=yellow">
@@ -52,8 +52,6 @@
 
 ##  发布需求
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415122452803.gif#pic_center)
-##  发布需求
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415134322348.gif#pic_center)
 
 
 ##  商家后台
@@ -70,8 +68,7 @@
 ## 联系我们
 <p>猿大佬7群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415134853755.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQzMzE2NA==,size_16,color_FFFFFF,t_70#pic_center)
-
+<img   border="0" src="https://img-blog.csdnimg.cn/20210415134853755.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQzMzE2NA==,size_16,color_FFFFFF,t_70#pic_center" alt="猿大佬7群" title="猿大佬7群"  width="200"></a>
 
 
 
